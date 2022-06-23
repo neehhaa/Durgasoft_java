@@ -1,6 +1,6 @@
 class Arrdec{
     public static void main(String[] args){
-        int[] a = new int[10l];
+        int[] x = new int[2147483647];
 
     }
 }
