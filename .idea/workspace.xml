@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="77d659f5-c05b-4bc5-ba0d-06304877c78e" name="Changes" comment="a">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Durgasoft_java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lamguage_Fundamental/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lamguage_Fundamental/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lamguage_Fundamental/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lamguage_Fundamental/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lamguage_Fundamental/Arr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lamguage_Fundamental/ArrInitial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lamguage_Fundamental/Arrcreate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lamguage_Fundamental/Arrdec.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lamguage_Fundamental/Language_Fundamental.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lamguage_Fundamental/VarAssi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lamguage_Fundamental/VarAssi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lamguage_Fundamental/hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lamguage_Fundamental/out/production/Lamguage_Fundamental/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lamguage_Fundamental/out/production/Lamguage_Fundamental/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lamguage_Fundamental/out/production/Lamguage_Fundamental/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lamguage_Fundamental/out/production/Lamguage_Fundamental/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lamguage_Fundamental/out/production/Lamguage_Fundamental/Lamguage_Fundamental.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lamguage_Fundamental/out/production/Language_Fundamental/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lamguage_Fundamental/out/production/Language_Fundamental/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lamguage_Fundamental/out/production/Language_Fundamental/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lamguage_Fundamental/out/production/Language_Fundamental/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lamguage_Fundamental/out/production/Language_Fundamental/Arr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lamguage_Fundamental/out/production/Language_Fundamental/ArrInitial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lamguage_Fundamental/out/production/Language_Fundamental/Arrcreate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lamguage_Fundamental/out/production/Language_Fundamental/Arrdec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lamguage_Fundamental/out/production/Language_Fundamental/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lamguage_Fundamental/out/production/Language_Fundamental/Language_Fundamental.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lamguage_Fundamental/out/production/Language_Fundamental/VarAssi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Durgasoft_java/Arr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Durgasoft_java/ArrInitial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Durgasoft_java/Arrcreate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Durgasoft_java/Arrdec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Durgasoft_java/Hello.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BCAmmNtN6Ikn4i0SZ3z1iSpvuJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77d659f5-c05b-4bc5-ba0d-06304877c78e" name="Changes" comment="" />
+      <created>1656399857203</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656399857203</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="a" />
+    <option name="LAST_COMMIT_MESSAGE" value="a" />
+  </component>
+</project>
