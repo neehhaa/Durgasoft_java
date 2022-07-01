@@ -1,6 +1,6 @@
 public class VarArg {
     public static void m1(int... x){
-        System.out.println("Var arg method");
+        System.out.println("Var arg method"+x.length );
     }
     public static void main(String[] args){
         m1();
