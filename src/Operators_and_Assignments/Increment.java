@@ -3,8 +3,9 @@ package Operators_and_Assignments;
 public class Increment {
     public static void main(String[] args) {
         byte a = 10;
-        a++;
-        System.out.println(a);
+        byte b = 20;
+        byte c = (byte)(a+b);
+        System.out.println(c);
     }
 }
 
